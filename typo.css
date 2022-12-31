@@ -271,3 +271,12 @@ a:hover {
   background: hsl(36,100%,50%);
   transform: rotate(-10deg);
 }
+
+/* пример, как при наведении объект див становится красным,
+поворачивается на 50 градусов и увеличивается в 2 раза
+div:hover {
+  background: red;
+  transform: rotate(50deg) scale(2);
+}
+
+*/
